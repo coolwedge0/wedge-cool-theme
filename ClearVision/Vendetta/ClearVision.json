@@ -1,9 +1,9 @@
 {
     "name": "ClearVision v1.2.6",
-    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
+    "description": "wedge cool theme",
 	"authors": [
       {
-         "name": "Taki_Shiwa, edited by Sunny",
+         "name": "Taki_Shiwa, edited by Sunny, Wedge",
          "id": "466968658997149706"
       }
     ],
@@ -516,7 +516,7 @@
 	"PLUM_22": "#0f1428"
     },
     "background": {
-        "url": "https://raw.githubusercontent.com/coolwedge0/wedge-cool-theme/refs/heads/main/ClearVision/Vendetta/Picsart_25-11-01_22-15-44-231.png",
+        "url": "https://raw.githubusercontent.com/coolwedge0/wedge-cool-theme/refs/heads/main/ClearVision/Vendetta/Picsart_25-11-01_22-35-23-343.png",
 	"alpha": 1
     },
     "plus": {
